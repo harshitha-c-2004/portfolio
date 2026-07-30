@@ -18,22 +18,27 @@
 - 🎨 HTML5 & CSS3
 - ⚡ JavaScript
 - 🗄️ SQLite
-
 ## ▶️ How to Run
 
-1. Clone the repository
+### 1. Clone the repository
+
 ```bash
 git clone https://github.com/harshitha-c-2004/portfolio.git
+```
 
-2. Navigate to the project folder
+### 2. Navigate to the project folder
+
+```bash
 cd portfolio
+```
 
-4. Run the Django server
+### 3. Run the Django server
+
+```bash
 python manage.py runserver
+```
 
-👩‍💻 Author
+### 👩‍💻 Author
 
-Harshitha C
+Harshitha C  
 MCA Graduate | Python Full Stack Developer
-
-
