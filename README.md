@@ -22,7 +22,7 @@
 ## ▶️ How to Run
 
 1. Clone the repository
-   ```bash
+```bash
 git clone https://github.com/harshitha-c-2004/portfolio.git
 
 2. Navigate to the project folder
